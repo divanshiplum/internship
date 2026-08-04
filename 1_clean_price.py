@@ -1,5 +1,5 @@
 def clean_price(text:str)-> float:
-  """docstring: turn messy price text into a number.
+  """doc-string: turn messy price text into a number.
   
   Args:
         text: Raw price text such as "Rs. 499" or "1,299.00".
