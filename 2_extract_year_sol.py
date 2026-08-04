@@ -1,5 +1,5 @@
 def extract_year(date_str:str) -> int
- """Pull the year out of a date string.
+ """doct-string: Pull the year out of a date string.
 
     Assumes the year is the first four digits that appear, which holds for
     "2026-07-29", "2026/07/29" and "Joined on 2026-07-29" alike.
